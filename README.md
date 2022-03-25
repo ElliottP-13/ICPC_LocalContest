@@ -36,6 +36,9 @@ Contest Problems as well as _sample_ inputs and outputs.
 
 
 ## Useful Resources
+
+Checkout the [Demo folder](./Demo/) for a full example in python and java. As well as example redirecting contents of file to standard in. 
+
 ### Sample IO
 Coming soon, I have to make them.
 You can expect the input to be on Standard In (std.in).
