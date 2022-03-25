@@ -40,12 +40,22 @@ Contest Problems as well as _sample_ inputs and outputs.
 Checkout the [Demo folder](./Demo/) for a full example in python and java. As well as example redirecting contents of file to standard in. 
 
 ### Sample IO
-Coming soon, I have to make them.
+See [demo.java](./Demo/demo.java) and [demo.py](./Demo/demo.py) for examples of how to read from standard in in Java and Python.
 You can expect the input to be on Standard In (std.in).
-You can pipe the sample input into your program using 
-``` 
-my_program.py < sample_input.in 
+You can pipe the sample input into your python program (It is similar for Java (or any other language)) using:
+```bash
+python3 demo.py < sample.in
 ```
+
+I personally use JetBrains products for my IDE (Intellj and Pycharm).
+To do this via the IDE:
+ 1. Run
+ 2. Edit Configuration
+ 3. *Intellij Only*
+    1. Modify options (hidden on the far right drop down)
+    2. Redirect input check
+ 4. "Redirect Input From:" enter sample.in
+ 5. OK
 
 ### Sample Problems
 Coming soon. 
