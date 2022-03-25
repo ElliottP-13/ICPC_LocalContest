@@ -16,3 +16,21 @@ Each line has two numbers, a and b, separated by a single space (' ') character.
 
 ## The Output:
 On each line, output the sum of the two numbers a and b. 
+
+## How to run?
+This is really up to the user, there are a ton of ways to do this.
+The goal is to pipe the contents of sample.in into the program.
+This can be done with python via (similar for java if using command line):
+```bash
+python3 demo.py < sample.in
+```
+
+I personally use JetBrains products for my IDE (Intellj and Pycharm).
+To do this via the IDE:
+ 1. Run
+ 2. Edit Configuration
+ 3. *Intellij Only*
+    1. Modify options (hidden on the far right drop down)
+    2. Redirect input check
+ 4. "Redirect Input From:" enter sample.in
+ 5. OK
