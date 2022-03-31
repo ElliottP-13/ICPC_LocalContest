@@ -28,7 +28,9 @@ All code must finish within 30 seconds (time to use your big O knowledge, some i
 ## Teams
 [Email me to register!](mailto:elliott.pryor@student.montana.edu). If you don't have a full team and are interested in competing, please email me and we can try to fit you in a group!
 
-- Nobody registered yet... 
+- Jamison Cleveland, Bau Sauvage, Peyton Ellis
+- Seth Ullman, Connor Parrott
+- Braeden Hunt
 
 ## Contest Problems
 Contest Problems as well as _sample_ inputs and outputs.
