@@ -22,8 +22,8 @@ All code must finish within 30 seconds (time to use your big O knowledge, some i
     - Deadline to register team.
     - Email me, Elliott Pryor [elliott.pryor@student.montana.edu](mailto:elliott.pryor@student.montana.edu)
 - Saturday, April 9
-    - 1:00pm Contest check-in. Barnard Hall 254
-    - 1:30-5:00pm Programming Contest. Barnard Hall 254
+    - 1:00pm Contest check-in. Barnard Hall 259
+    - 1:30-5:00pm Programming Contest. Barnard Hall 259
 
 ## Teams
 [Email me to register!](mailto:elliott.pryor@student.montana.edu). If you don't have a full team and are interested in competing, please email me and we can try to fit you in a group!
